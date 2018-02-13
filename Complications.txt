@@ -1,0 +1,4 @@
+I tried to implement as much image responsiveness as possible but my original code is very sloppy (a lot of
+position:relative, top:x, right:y). The sidebar was the biggest problem. I tried to position it on top of the main content
+but anything I did messed with the integrity of the sidebar. I just decided to hide it when the screen got to a certain
+width.
